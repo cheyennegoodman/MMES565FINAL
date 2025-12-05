@@ -1,8 +1,8 @@
 project:
   type: website
-  
+
 output-dir: _site
-  
+
 website:
   title: "MMES565FINAL"
   navbar:
