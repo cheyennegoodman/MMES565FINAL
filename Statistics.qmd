@@ -16,9 +16,9 @@ The Territorial Coral Reef Monitoring Program (TCRMP) has fish abundance and bio
 
 All damselfish species found in the USVI were accounted for measuring the biomass and abundance at each TCRMP site. Two maps were created to look at the mean damselfish biomass/ abundance rom 2013 to 2021 (Figure No.1 and No.2). From the maps, it looks like St. Croix has a higher abundance of damselfish species throughout the years, but have medium biomass.
 
-![Figure No. 1. The Average Damselfish Biomass from 2013-2021](images/AVERAGE_BIOMASS_DAMSELFISH.JPG)
+![Figure No. 1. The Average Damselfish Biomass from 2013-2021](images/AVERAGE_BIOMASS_DAMSELFISH.jpg)
 
-![Figure No. 2. The Average Damselfish Abundance from 2013-2021](images/AVERAGE_ABUNDANCE_DAMSELFISH.JPG)
+![Figure No. 2. The Average Damselfish Abundance from 2013-2021](images/AVERAGE_ABUNDANCE_DAMSELFISH.jpg)
 
 Figure No. 3 demostrates damselfish biomass trends along different sites from 2013 to 2021.
 
