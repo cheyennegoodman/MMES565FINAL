@@ -3,6 +3,7 @@ project:
 
 website:
   title: "MMES565FINAL"
+  output-dir: _site
   navbar:
     left:
       - href: index.qmd
@@ -21,8 +22,6 @@ format:
     css: styles.css
     toc: true
     
-resources: 
-  -PHOTOS/**
 
 editor: visual
 
