@@ -24,6 +24,9 @@ format:
     css: styles.css
     toc: true
     
-
+output:
+  html_document:
+    base_url: https://cheyennegoodman.github.io/MMES565FINAL-main/
+    
 editor: visual
 
