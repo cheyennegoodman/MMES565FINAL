@@ -1,9 +1,10 @@
 project:
   type: website
-
+  
+output-dir: _site
+  
 website:
   title: "MMES565FINAL"
-  output-dir: _site
   navbar:
     left:
       - href: index.qmd
