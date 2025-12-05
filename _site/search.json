@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "objectID": "Statistics.html",
     "href": "Statistics.html",
     "title": "Statistics",
@@ -119,6 +120,8 @@
     "text": "Statistical Analsysis"
   },
   {
+=======
+>>>>>>> origin/gh-pages
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduction and Research Objectives",
@@ -140,6 +143,7 @@
     "text": "Research Objectives\nI aim to answer these questions with my research thesis:\n\nDoes damselfish presence through predation bites and algal gardens truly negatively impact coral growth?\nHow does damselfish presence and algal gardens negatively impact the recovery of corals after thermal stress?\nHow has damselfish presence correlated to coral health, disease, and bleaching recovery within the past 10 years?"
   },
   {
+<<<<<<< HEAD
     "objectID": "index.html#background",
     "href": "index.html#background",
     "title": "Introduction and Research Objectives",
@@ -154,6 +158,8 @@
     "text": "Statistical Analysis\nI\nI am reviewing the Territorial Coral Reef Monitoring Program (TCRMP) dataset from 2013-2021 to investigate damselfish biomass and abundance. See statistical analysis to view the damselfish population trends between 2012-2021.\nFor my thesis, I will also incorporate coral health and macroalgae abundance to see if there is a correlation with:\nI hope to get a hold of DPNR’s dataset of damselfish predation to fill in gaps that TCRMP has. For example, not every diver knows/ records damselfish species during their coral health surveys to make an accurate depiction of damselfish-coral interaction."
   },
   {
+=======
+>>>>>>> origin/gh-pages
     "objectID": "index.html#references",
     "href": "index.html#references",
     "title": "Introduction and Research Objectives",
@@ -161,10 +167,18 @@
     "text": "References\nBurke, L., Reytar, K., Spalding, M. & Perry, A. (2011). Reefs at risk revisited. Washington, DC: World Resources Institute (WRI).\nJackson, J., Donovan, M., Cramer, K., & Lam, V. (2014). Status and trends of Caribbean coral reefs: 1970-2012. Gland, Switzerland: Global Coral Reef Monitoring Network; International Union for the Conservation of Nature (IUCN).\nKaufman, L. (1981). There was Biological Disturbance on Pleistocene Coral Reefs. Paleobiology, 7(4), 527–532.\nUNEP-WCMC, WorldFish Centre, WRI, TNC (2021). Global distribution of warm-water coral reefs, compiled from multiple sources including the Millennium Coral Reef Mapping Project. Version 4.1. Includes contributions from IMaRS-USF and IRD (2005), IMaRS-USF (2005) and Spalding et al. (2001). Cambridge (UK): UN Environment World Conservation Monitoring Centre."
   },
   {
+<<<<<<< HEAD
     "objectID": "Introduction.html#references",
     "href": "Introduction.html#references",
     "title": "Introduction and Research Objectives",
     "section": "References",
     "text": "References\nBurke, L., Reytar, K., Spalding, M. & Perry, A. (2011). Reefs at risk revisited. Washington, DC: World Resources Institute (WRI).\nJackson, J., Donovan, M., Cramer, K., & Lam, V. (2014). Status and trends of Caribbean coral reefs: 1970-2012. Gland, Switzerland: Global Coral Reef Monitoring Network; International Union for the Conservation of Nature (IUCN).\nKaufman, L. (1981). There was Biological Disturbance on Pleistocene Coral Reefs. Paleobiology, 7(4), 527–532.\nUNEP-WCMC, WorldFish Centre, WRI, TNC (2021). Global distribution of warm-water coral reefs, compiled from multiple sources including the Millennium Coral Reef Mapping Project. Version 4.1. Includes contributions from IMaRS-USF and IRD (2005), IMaRS-USF (2005) and Spalding et al. (2001). Cambridge (UK): UN Environment World Conservation Monitoring Centre.\n##Background\nThis website serves as a record of my progress in the Masters in Marine in Environmental Science program at the University of the Virgin Islands. This website is created for MMES 565 taught by Jeremiah Blondeau."
+=======
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Introduction and Research Objectives",
+    "section": "Background",
+    "text": "Background\nThis website serves as a record of my progress in the Masters in Marine in Environmental Science program at the University of the Virgin Islands. This website is created for MMES 565 taught by Jeremiah Blondeau."
+>>>>>>> origin/gh-pages
   }
 ]
