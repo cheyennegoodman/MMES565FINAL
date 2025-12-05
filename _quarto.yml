@@ -5,24 +5,23 @@ output-dir: _site
 
 website:
   title: "MMES565FINAL"
-
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - Methods.qmd
-      - Statistics.qmd
-      - Other Projects.qmd
-      - about.qmd
-      
+      - href: Methods.qmd
+        text: Methods
+      - href: Statistics.qmd
+        text: Statistics
+      - href: other-projects.qmd
+        text: Other Projects
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
+    theme: cosmo
     css: styles.css
     toc: true
-    
 
 editor: visual
-
